@@ -1,12 +1,12 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appId="TestApp"> 
-        <version>3.0.0.0</version> 
+        <version>0.1.1.0</version> 
         <url>https://raw.githubusercontent.com/MakeCentsGaming/BO3-MC-Modlauncher/master/BO3%20MC%20Launcher.exe</url> 
         <fileName>TestApp.exe</fileName> 
         <md5>432fa04eb8193716565fbce9a82e000a</md5>
         <description>Update: 06/19/2014:
-        1. Added notification message when the current version is already the latest.</description> 
+        1. First test of updater.</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
