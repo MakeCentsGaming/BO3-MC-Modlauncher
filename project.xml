@@ -1,13 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appId="BO3 MC Launcher"> 
-        <version>0.1.2.0</version> 
+        <version>0.1.3.0</version> 
         <url>https://raw.githubusercontent.com/MakeCentsGaming/BO3-MC-Modlauncher/master/BO3%20MC%20Launcher.exe</url> 
         <fileName>BO3 MC Launcher.exe</fileName> 
-        <md5>bf7ce4f82eb8c5bc9c1242a27ae02568</md5>
-        <description>Update: 06/19/2014:
-        1. Beta release with updator full working. 
-        2. Will even update if you replaced your default launcher.</description> 
+        <md5>dfbaf8f90279d5204d31fefc3bd5900d</md5>
+        <description>Update: 03/08/2017:
+        0.1. Beta release with updator full working. 
+        0.1.2. Will even update if you replaced your default launcher.
+        0.1.3. Testing update and added image with some other tweaks.</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
