@@ -14,7 +14,7 @@
         0.1.5.1 Testing preserve settings again.
         0.1.5.2 Testing again
         0.1.5.3 Testing again and fixed replace default launcher when you don't want to
-        0.1.5.4 updater, settings
+        0.1.5.4 Now settings will save from version to version
         </description> 
         <launchArgs></launchArgs> 
     </update> 
