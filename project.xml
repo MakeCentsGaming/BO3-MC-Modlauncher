@@ -1,10 +1,10 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appId="BO3 MC Launcher"> 
-        <version>0.1.6.1</version> 
+        <version>0.1.7.0</version> 
         <url>https://raw.githubusercontent.com/MakeCentsGaming/BO3-MC-Modlauncher/master/BO3%20MC%20Launcher.exe</url> 
         <fileName>BO3 MC Launcher.exe</fileName> 
-        <md5>3701ad31ad454251ef16f80c9c58a149</md5>
+        <md5>9d9d173bb87975d99205c2ff974cbdea</md5>
         <description>Update: 03/08/2017:
         0.1. Beta release with updator full working. 
         0.1.2. Will even update if you replaced your default launcher.
@@ -17,6 +17,7 @@
         0.1.5.4 Now settings will save from version to version
         0.1.6 Added utility and in it a check to delte the xpak on link
         0.1.6.1 Updated with setting for xpak delete
+        0.1.7.0 List boxes deleted some how? Fixed it
         </description> 
         <launchArgs></launchArgs> 
     </update> 
