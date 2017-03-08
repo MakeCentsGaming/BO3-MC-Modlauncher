@@ -4,7 +4,7 @@
         <version>0.1.5.2</version> 
         <url>https://raw.githubusercontent.com/MakeCentsGaming/BO3-MC-Modlauncher/master/BO3%20MC%20Launcher.exe</url> 
         <fileName>BO3 MC Launcher.exe</fileName> 
-        <md5>7546589a8f78a742ac16efb01c84bb30</md5>
+        <md5>05f7b843f52e046b99d49acf9e4f48ee</md5>
         <description>Update: 03/08/2017:
         0.1. Beta release with updator full working. 
         0.1.2. Will even update if you replaced your default launcher.
@@ -13,6 +13,7 @@
         0.1.5. Testing preserve settings.
         0.1.5.1 Testing preserve settings again.
         0.1.5.2 Testing again
+        0.1.5.2 Testing again and fixed replace default launcher when you don't want to
         </description> 
         <launchArgs></launchArgs> 
     </update> 
