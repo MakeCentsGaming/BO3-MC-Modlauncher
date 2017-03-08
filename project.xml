@@ -1,12 +1,12 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appId="BO3 MC Launcher"> 
-        <version>0.1.7.1</version> 
+        <version>0.1.7.2</version> 
         <url>https://raw.githubusercontent.com/MakeCentsGaming/BO3-MC-Modlauncher/master/BO3%20MC%20Launcher.exe</url> 
         <fileName>BO3 MC Launcher.exe</fileName> 
-        <md5>c477b8aae2497c284a752f462e8798b1</md5>
+        <md5>0c4fd7ce11aa19c623129b5a61dec50e</md5>
         <description>Update: 03/08/2017:
-        0.1.7.1 Fixed list boxes, and settings updater again
+        0.1.7.2 Fixed list boxes, and settings updater again, fixed borders for boxes
         </description> 
         <launchArgs></launchArgs> 
     </update> 
