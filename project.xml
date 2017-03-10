@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appId="BO3 MC Launcher"> 
-        <version>0.1.0.0</version> 
+        <version>0.1.9.7</version> 
         <url>https://raw.githubusercontent.com/MakeCentsGaming/BO3-MC-Modlauncher/master/BO3%20MC%20Launcher.exe</url> 
         <fileName>BO3 MC Launcher.exe</fileName> 
         <md5>65d3983adcbf46f85d45c6f3d695f70e</md5>
