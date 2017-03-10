@@ -1,17 +1,17 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appId="BO3 MC Launcher"> 
-        <version>0.1.9.8</version> 
+        <version>0.1.9.3</version> 
         <url>https://raw.githubusercontent.com/MakeCentsGaming/BO3-MC-Modlauncher/master/BO3%20MC%20Launcher.exe</url> 
         <fileName>BO3 MC Launcher.exe</fileName> 
-        <md5>0c0aa55a38904c58c3f4f97c4c77d4ba</md5>
+        <md5>56a55b8532dee28031e784f60e14a37d</md5>
         <description>Update: 03/09/2017:
         0.1.9.1 Added more links, fixed color picker error, 
             added splash, fixed custom buttons, 
             fixed one time splash
             added collapsing handles and updated tabs
             fixed bugs with gdt db only and updated handles
-        0.1.9.8 Testing by name update name failed, put back to .2
+        
         </description> 
         <launchArgs></launchArgs> 
     </update> 
