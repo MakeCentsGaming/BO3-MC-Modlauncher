@@ -1,16 +1,17 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appId="BO3 MC Launcher"> 
-        <version>0.1.9.5</version> 
+        <version>0.1.9.6</version> 
         <url>https://raw.githubusercontent.com/MakeCentsGaming/BO3-MC-Modlauncher/master/BO3%20MC%20Launcher.exe</url> 
         <fileName>BO3 MC Launcher.exe</fileName> 
-        <md5>157e02dac48632e76b027c5addac0085</md5>
+        <md5>04304c68fa1adec81eba679661a278ee</md5>
         <description>Update: 03/10/2017:
-        0.1.9.5 Final before release.
+        0.1.9.6 Final before release.
             Needs more testing.
             UI finished
             Updater finished
             Added Credits
+            Added Notes (hidden, seen when maximized), adjusted panels
         </description> 
         <launchArgs></launchArgs> 
     </update> 
