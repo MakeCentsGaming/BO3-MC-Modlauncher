@@ -1,21 +1,12 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appId="BO3 MC Launcher"> 
-        <version>0.1.9.8</version> 
+        <version>1</version> 
         <url>https://raw.githubusercontent.com/MakeCentsGaming/BO3-MC-Modlauncher/master/BO3%20MC%20Launcher.exe</url> 
         <fileName>BO3 MC Launcher.exe</fileName> 
-        <md5>58c07532e961b75656680b727d9d42b2</md5>
-        <description>Update: 03/10/2017:
-        0.1.9.8 Final before release.
-            Needs more testing.
-            UI finished
-            Updater finished
-            Added Credits
-            Added Notes (hidden, seen when maximized), adjusted panels
-            Updated timer to subtract start from now, due to freeze issues
-            Added shutoff timer
-            Add sleep of .1 to finish output for error reports
-            changed to 1 second wait
+        <md5>d065785c2150f8756fef495b208df141</md5>
+        <description>Update: 03/14/2017:
+        v1 Released
         </description> 
         <launchArgs></launchArgs> 
     </update> 
