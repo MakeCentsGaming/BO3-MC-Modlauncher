@@ -1,17 +1,17 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appId="BO3 MC Launcher"> 
-        <version>1.1.0.0</version> 
+        <version>1.1.1.0</version> 
         <url>https://raw.githubusercontent.com/MakeCentsGaming/BO3-MC-Modlauncher/master/BO3%20MC%20Launcher.exe</url> 
         <fileName>BO3 MC Launcher.exe</fileName> 
-        <md5>70f752844b7782d4291d8144e4dc8e20</md5>
+        <md5>fd58874ce9943183da829666f4b92338</md5>
         <description>Update: 03/17/2017:
-        v1 Released
-        v1.1 
-         - fixed bug with folders less than 3 digits
-         - fixed update gdtdb to link bug
-         - fixed notes remember bug
-         - little tweaks
+        v1.1.1 
+        Output box additions
+            - Color options
+            - Searchbox
+        Fixed sounds link
+        Other minor fixes
         </description> 
         <launchArgs></launchArgs> 
     </update> 
