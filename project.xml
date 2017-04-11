@@ -9,7 +9,7 @@
         v1.2 
          - added close cmd windows option
          - added favorites and filter by favorites
-         - fixed cusotm dvar not checked but still used issue         
+         - fixed custom dvar not checked but still used issue         
         </description> 
         <launchArgs></launchArgs> 
     </update> 
