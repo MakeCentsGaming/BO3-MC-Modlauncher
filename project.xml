@@ -1,17 +1,21 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appId="BO3 MC Launcher"> 
-        <version>1.2.1.0</version> 
+        <version>1.2.3.0</version> 
         <url>https://raw.githubusercontent.com/MakeCentsGaming/BO3-MC-Modlauncher/master/BO3%20MC%20Launcher.exe</url> 
         <fileName>BO3 MC Launcher.exe</fileName> 
-        <md5>06c8e0eb624cb89e58aa7ccda99ef6fc</md5>
-        <description>Update: 04/10/2017:
+        <md5>b6402ef5df62be547f933114753251c6</md5>
+        <description>Update: 05/06/2017:
         v1.2 
          - added close cmd windows option
          - added favorites and filter by favorites
          - fixed custom dvar not checked but still used issue 
-        v1.2.1
+        v1.2.3
          - fixed custom dvar always first selection
+         - Added notes button
+         - Added Backup, Copy, Rename tool to context menu
+         - Added Make this map/mod a template to context menu
+         - Added more Wiki stuff
         </description> 
         <launchArgs></launchArgs> 
     </update> 
