@@ -15,15 +15,15 @@ Build and run maps and mods seperately
 
 Includes latest updatest to my other tools
 
-   GDT Packer
+   -GDT Packer
    
-   C3IG
+   -C3IG
    
-   Export2Bin drag n drop
+   -Export2Bin drag n drop
    
-   COD Color picker
+   -COD Color picker
    
-   GDT Import/Duplicate Analyzer
+   -GDT Import/Duplicate Analyzer
    
 Launch Worshop maps or mods from launcher
 
