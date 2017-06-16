@@ -1,10 +1,10 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appId="BO3 MC Launcher"> 
-        <version>1.2.3.0</version> 
+        <version>1.2.4.0</version> 
         <url>https://raw.githubusercontent.com/MakeCentsGaming/BO3-MC-Modlauncher/master/BO3%20MC%20Launcher.exe</url> 
         <fileName>BO3 MC Launcher.exe</fileName> 
-        <md5>b6402ef5df62be547f933114753251c6</md5>
+        <md5>0177ac61efb6e1c773826900d81b0391</md5>
         <description>Update: 05/06/2017:
         v1.2 
          - added close cmd windows option
@@ -16,6 +16,12 @@
          - Added Backup, Copy, Rename tool to context menu
          - Added Make this map/mod a template to context menu
          - Added more Wiki stuff
+       v1.2.4
+         - Added ability to launch Workshop mods and/or maps from launcher
+         - Added GDT Import/Duplicate Analyzer beta tool
+         - Updated wiki stuff
+         - Added bot dvars for mp
+         - Added some width adjustment settings for panels
         </description> 
         <launchArgs></launchArgs> 
     </update> 
