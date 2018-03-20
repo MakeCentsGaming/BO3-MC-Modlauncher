@@ -1,29 +1,15 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appId="BO3 MC Launcher"> 
-        <version>1.2.5.0</version> 
+        <version>1.2.6.0</version> 
         <url>https://raw.githubusercontent.com/MakeCentsGaming/BO3-MC-Modlauncher/master/BO3%20MC%20Launcher.exe</url> 
         <fileName>BO3 MC Launcher.exe</fileName> 
-        <md5>e0212186c954d83edc4cd551935b4b48</md5>
-        <description>Update: 06/15/2017:
-        v1.2 
-         - added close cmd windows option
-         - added favorites and filter by favorites
-         - fixed custom dvar not checked but still used issue 
-        v1.2.3
-         - fixed custom dvar always first selection
-         - Added notes button
-         - Added Backup, Copy, Rename tool to context menu
-         - Added Make this map/mod a template to context menu
-         - Added more Wiki stuff
-       v1.2.4
-         - Added ability to launch Workshop mods and/or maps from launcher
-         - Added GDT Import/Duplicate Analyzer beta tool
-         - Updated wiki stuff
-         - Added bot dvars for mp
-         - Added some width adjustment settings for panels
-       v1.2.5
-         - Added the GDT Combiner
+        <md5>21131ab06eb30efa4feecf0ecdf20429</md5>
+        <description>Update: 06/15/2017:        
+       v1.2.6
+         - Modified GDT Importer, removed analyzer
+         - Added Favorites to main menu
+         - Added setting for use applaunch to resolve the non-launching issue, requires path to steam.exe
         </description> 
         <launchArgs></launchArgs> 
     </update> 
